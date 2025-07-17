@@ -1,11 +1,14 @@
 # AppStore-Connect-Resolution-Converter
 Apple App Store Preview Converter
 A bash script that automatically converts iPhone screen recordings to Apple's accepted App Store preview resolutions.
+
 🎯 Purpose
 When you record app previews using QuickTime or iPhone screen recording, the videos are captured at device resolution (e.g., 1290x2796 for iPhone 15 Pro Max). However, Apple requires specific "accepted resolutions" that are different from device resolutions. This script handles the conversion automatically.
+
 📱 Supported Resolutions
 The script creates three accepted resolutions that cover all iPhone models:
 ResolutionCoversiPhone Models886 x 19206.9", 6.5", 6.3", 6.1", 4.0" displaysiPhone 16/15/14/13/12 (all variants), iPhone SE 1st gen1080 x 19205.5" displaysiPhone 8 Plus, 7 Plus, 6s Plus, 6 Plus750 x 13344.7" displaysiPhone SE 2nd/3rd gen, iPhone 8, 7, 6s, 6
+
 🚀 Quick Start
 bash# Clone or download the script
 curl -O [https://raw.githubusercontent.com/albertl7/app-preview-converter/main/convert_previews.sh](https://github.com/AlbertL7/AppStore-Connect-Resolution-Converter/blob/main/AppStorePreviewConverter.sh)
