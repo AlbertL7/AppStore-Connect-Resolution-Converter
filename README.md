@@ -8,7 +8,7 @@ The script creates three accepted resolutions that cover all iPhone models:
 ResolutionCoversiPhone Models886 x 19206.9", 6.5", 6.3", 6.1", 4.0" displaysiPhone 16/15/14/13/12 (all variants), iPhone SE 1st gen1080 x 19205.5" displaysiPhone 8 Plus, 7 Plus, 6s Plus, 6 Plus750 x 13344.7" displaysiPhone SE 2nd/3rd gen, iPhone 8, 7, 6s, 6
 🚀 Quick Start
 bash# Clone or download the script
-curl -O https://raw.githubusercontent.com/yourusername/app-preview-converter/main/convert_previews.sh
+curl -O https://raw.githubusercontent.com/albertl7/app-preview-converter/main/convert_previews.sh
 
 # Make it executable
 chmod +x convert_previews.sh
